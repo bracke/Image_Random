@@ -1,4 +1,6 @@
 # Image_Random
+[![Alire](https://img.shields.io/endpoint?url=https://alire.ada.dev/badges/image_random.json)](https://alire.ada.dev/crates/image_random.html)
+
 True random numbers from a digital camera
 
 This works under Linux with the GNAT compiler; modification for other platforms or compilers is left as an exercise for the desperate
